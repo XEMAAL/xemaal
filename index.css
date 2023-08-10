@@ -1,0 +1,28 @@
+ body {
+    color:white;
+    background-color: rgb(1, 1, 94);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+    
+ ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type:none;
+    align-items: center;
+    padding: 20px;
+ }
+
+ a{
+    color:white;
+    text-decoration: none;
+ }
+
+ img {
+    width: 350px;
+    height: 150px;
+
+ }
+
+ .center {
+    text-align: center;
+ }
